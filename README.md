@@ -16,7 +16,6 @@ I build scalable mobile apps and modern web experiences.
 - 📍 Karachi, Pakistan
 
 ---
-
 ## 🌐 Connect With Me
 
 <p>
@@ -30,6 +29,10 @@ I build scalable mobile apps and modern web experiences.
 
 <a href="https://www.fiverr.com/s/1qlqjb0" target="_blank">
 <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr">
+</a>
+
+<a href="https://www.youtube.com/@YasirAli-i2x4n" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
 
