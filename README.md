@@ -20,7 +20,7 @@ I build scalable mobile apps and modern web experiences.
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://linkedin.com](https://www.linkedin.com/in/react-native-developer/">
+<a href="https://www.linkedin.com/in/react-native-developer/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -28,7 +28,7 @@ I build scalable mobile apps and modern web experiences.
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://www.fiverr.com/s/1qlqjb0">
+<a href="https://www.fiverr.com/s/1qlqjb0" target="_blank">
 <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr">
 </a>
 </p>
