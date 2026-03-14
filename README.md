@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yasir Ali</h1>
+<h3 align="center">React & React Native Developer from Pakistan 🇵🇰</h3>
 
-<!--
-**YasirAliSmit/YasirAliSmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I build scalable mobile apps and modern web experiences.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 📱 React Native Mobile Developer
+- ⚛️ React JS Web Developer
+- 🎓 Graduate of SMIT (Saylani Mass IT Training)
+- 🚀 Passionate about building real-world applications
+- 📍 Karachi, Pakistan
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://linkedin.com](https://www.linkedin.com/in/react-native-developer/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:yasir.ali75404@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://www.fiverr.com/s/1qlqjb0">
+<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr">
+</a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,html,css,bootstrap,nodejs,firebase,git" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasirAliSmit&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YasirAliSmit&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasirAliSmit&layout=compact&theme=tokyonight)
+
+---
+
+⭐ From [YasirAliSmit](https://github.com/YasirAliSmit)
