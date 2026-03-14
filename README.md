@@ -36,6 +36,10 @@ I build scalable mobile apps and modern web experiences.
 </a>
 </p>
 
+<a href="https://6992e25d5e32cf1f3d4d3436--jocular-khapse-3dad8a.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Hire%20Me-0A66C2?style=for-the-badge&logo=netlify&logoColor=white">
+</a>
+
 ---
 
 
