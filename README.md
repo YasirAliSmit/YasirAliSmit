@@ -35,11 +35,17 @@ I build scalable mobile apps and modern web experiences.
 
 ---
 
+
+
 ## 🚀 Tech Stack
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,html,css,bootstrap,nodejs,firebase,git,cpp,java,python,mysql,postgres,docker,vscode,androidstudio,figma" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,nodejs,firebase,git,cpp,java,python,mysql,postgres,docker,vscode,androidstudio,figma" />
+
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
 
 </p>
 ---
