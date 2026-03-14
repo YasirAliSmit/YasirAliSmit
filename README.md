@@ -39,10 +39,9 @@ I build scalable mobile apps and modern web experiences.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,html,css,bootstrap,nodejs,firebase,git" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,html,css,bootstrap,nodejs,firebase,git,cpp,java,python,mysql,postgres,docker,vscode,androidstudio,figma" />
 
 </p>
-
 ---
 
 ## 📊 GitHub Stats
